@@ -1,5 +1,4 @@
-// Rahul Eaga 19CS10029
-// Uday Kiran 19CS10017
+
 
 // Standard includes
 #include <algorithm>
